@@ -18,6 +18,8 @@ Demo project that attempts to colorize 128by128 images.
 The Colorization Netowrk is an Autoencoder with:
 
 1. VGG19/16 pretrained network as an encoder to extract important features(using transfer learning)
-2. Custom decoder with 7 CNN Block (Conv Layer, BatchNormalization + ReLU/TanH activation)
+2. Custom decoder with 7 CNN Blocks (Conv Layer, BatchNormalization + ReLU/TanH activation)
+
+[Project source code](https://github.com/DariusCatrina/Autoencoder-Projects-in-Pytorch/tree/main/ImageColorization)
 
 
